@@ -1,0 +1,6 @@
+{
+  "name": "StudyVault",
+  "description": "Offline study materials, notes, programming scripts, AI prompts, personal docs, and learning references vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
